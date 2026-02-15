@@ -28,7 +28,7 @@ This project was built as a practical demonstration of fundamental web applicati
 
 
 
-This tool is intended for \*\*authorized security testing and educational purposes only\*\*.
+This tool is intended for **authorized security testing and educational purposes only**.
 
 
 
