@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="280" alt="Mini Web Security Scanner Logo">
+</p>
+
 \# Mini Web Security Scanner
 
 
